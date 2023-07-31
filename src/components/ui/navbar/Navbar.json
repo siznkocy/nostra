@@ -1,0 +1,20 @@
+{
+    "links": [
+        {
+            "text":"Shop",
+            "href":"/"
+        },
+        {
+            "text":"Most Wanted",
+            "href":"/"
+        },
+        {
+            "text":"New Arrival",
+            "href":"/"
+        },
+        {
+            "text":"Brand",
+            "href":"/" 
+        }
+    ]
+}
